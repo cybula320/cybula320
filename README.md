@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cybula320
 - 👀 I’m interested in medicine
 - 🌱 I’m currently learning machine learning
- - 📫 How to reach me https://creospace.eu
+ - 📫 Look at https://creospace.eu
 
 <!---
 cybula320/cybula320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
